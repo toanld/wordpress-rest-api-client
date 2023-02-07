@@ -1,10 +1,5 @@
 {
   "name": "toanld/wordpress-rest-api-client",
-  "config": {
-    "platform": {
-      "php": "^8.0.2"
-    }
-  },
   "autoload": {
     "psr-4": {
       "Vnn\\WpApiClient\\": "src/"
