@@ -1,5 +1,5 @@
 {
-  "name": "vnn/wordpress-rest-api-client",
+  "name": "toanld/wordpress-rest-api-client",
   "config": {
     "platform": {
       "php": "^8.0.2"
